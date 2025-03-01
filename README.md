@@ -1,5 +1,7 @@
 👋 Olá, eu sou o Kaique!
 🚀 Engenharia Mecatrônica | Programação | Automação
+![Image](https://github.com/user-attachments/assets/27095722-9715-4ce7-a908-9577e0bafb78)
+
 
 Apaixonado por tecnologia e inovação, busco integrar engenharia, programação e automação para criar soluções inteligentes.
 
