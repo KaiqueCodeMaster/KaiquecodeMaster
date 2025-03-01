@@ -1,11 +1,12 @@
 <h1>👋 Olá, eu sou o Kaique!</h1>
 <h2>🚀 Engenharia Mecatrônica | Programação | Automação</h2>
 
+![Image](https://github.com/user-attachments/assets/3545c988-fcda-43c1-8427-f5be9561b8b7)
 ![Image](https://github.com/user-attachments/assets/27095722-9715-4ce7-a908-9577e0bafb78)
 
 
 Apaixonado por tecnologia e inovação, busco integrar engenharia, programação e automação para criar soluções inteligentes.
-
+![Image](https://github.com/user-attachments/assets/3545c988-fcda-43c1-8427-f5be9561b8b7)
 **🚀 Habilidades**
 🔹 Linguagens: Python, C++, Java, JavaScript
 🔹 Automação & Robótica: CLPs, Sistemas Embarcados
@@ -16,7 +17,7 @@ Apaixonado por tecnologia e inovação, busco integrar engenharia, programação
 **📩 Email: ksiquedba14@gmail.com**
 
 **⚡ Vamos nos conectar! 🚀**
-
+![Image](https://github.com/user-attachments/assets/3545c988-fcda-43c1-8427-f5be9561b8b7)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
